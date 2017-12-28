@@ -1,3 +1,61 @@
 body{
 	font-family: Helvetica;
+	background-color: #0037ff;
 }
+
+container{
+	
+}
+
+header{
+	text-align: center;
+	background-image: url('././images/hockey_rink_topdown.png');
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 110px;
+	padding-top: 63px;
+	font-size: 24pt;
+	font-weight: bold;
+}
+
+a:link, a:visited{
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	font-size: 24pt;
+	padding-left: 70px;
+	padding-right: 70px;
+	background-color: #00faff;
+}
+
+a:hover, a:active{
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	font-size: 24pt;
+	font-weight: bold;
+	border-left: 50px;
+	border-right: 50px;
+	background-color: #00faff;
+}
+
+nav{
+	background-color: #00faff;
+}
+
+content{
+	background-color: #00ff6e;
+}
+
+h1{
+	color: #ffffff;
+	text-align: center;
+}
+
+p{
+	color: #ffffff;
+}
+
+footer{
+	
+]
