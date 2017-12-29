@@ -1,17 +1,22 @@
 body{
 	font-family: Helvetica;
-	background-color: #0037ff;
+	background-color: #ffffff;
 }
 
 header{
 	text-align: center;
 	background-image: url('././images/hockey_rink_topdown.png');
 	background-repeat: no-repeat;
-	background-position: center top;
+	background-position: center ;
+	background-color: #0037ff;
 	height: 110px;
-	padding-top: 63px;
+	padding-top: 75px;
 	font-size: 24pt;
 	font-weight: bold;
+}
+
+div{	
+	background-color: #00ff6e;
 }
 
 .nav {
@@ -109,8 +114,8 @@ header{
   }
 }
 
-content{
-	background-color: #ffffff;
+article{
+	padding: 10px 200px 10px 200px;
 }
 
 h1{
@@ -123,5 +128,7 @@ p{
 }
 
 footer{
-	
+	text-align: center;
+	color:#ffffff;
+	background-color: #ff0098;
 ]
