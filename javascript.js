@@ -1,3 +1,4 @@
+//function for a responsive menu
 function myFunction() {
     var x = document.getElementById("nav");
     if (x.className === "nav") {
